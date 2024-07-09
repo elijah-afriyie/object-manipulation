@@ -1,0 +1,1 @@
+How can you create a `Car` class with a `name` attribute, a `Garage` class with a `park` method that takes a `Car` object as a parameter, and a `Main` class that creates instances of `Car` and uses the `Garage` object to park these cars and print a message?
